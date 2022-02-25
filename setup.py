@@ -31,6 +31,7 @@ setup(
     include_package_data=True,
     description='Utilities for defining fine-grained permissions in the Django Rest Framework based API views',
     long_description=README,
+    long_description_content_type='text/markdown',
     author='IIIT',
     author_email='github@iiit.pl',
     packages=find_packages(exclude=[
